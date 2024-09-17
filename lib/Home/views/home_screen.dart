@@ -32,8 +32,11 @@ class HomeScreen extends StatelessWidget {
                         context,
                         MaterialPageRoute(builder: (context) => SecondPage()),
                       );
+
+
                   },
                    child:Text("move to next page"))
+                   
                 ],
               ),
             ),
